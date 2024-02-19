@@ -1,5 +1,8 @@
 # Import necessary modules from NLTK
 import nltk
+import numpy as np
+
+
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 
