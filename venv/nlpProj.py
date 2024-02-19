@@ -33,5 +33,3 @@ for word in words:
 
 print("\nFiltered Tokenization:")
 print(filteredList)
-
-print("Make sure this works")
